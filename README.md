@@ -1,4 +1,4 @@
-undolarxluis
+1 Dolar x Luis
 ============
 
-Un Dolar x Luis
+1 Dolar x Luis website
