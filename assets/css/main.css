@@ -101,6 +101,20 @@ header {
   position:fixed;
 }
 
+header .banner {
+  width: 268px;
+  height: 50px;
+  border: thin solid #d2d2d2;
+  text-align: right;
+  background-color: #ccc;
+  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+}
+
 header ul {
   list-style:none;
   height:40px;
