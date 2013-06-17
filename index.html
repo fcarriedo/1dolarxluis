@@ -1,39 +1,13 @@
-<html>
-  <head>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,900' rel='stylesheet' type='text/css'>
-    <style>
-      html, body, div {margin: 0px; padding: 0px; font-size: 100%;}
-      body {
-        color: #333;
-        font-family: 'Roboto', sans-serif;
-      }
-      #title {padding: 15px; font-size: 24px;}
-      #banner {
-        height: 230px;
-        border-top: 1px solid #ccc;
-        border-bottom: 1px solid #ccc;
-        background: -moz-linear-gradient(left, rgba(221,221,221,1) 0%, rgba(255,255,255,0.81) 39%, rgba(255,255,255,0.65) 71%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(221,221,221,1)), color-stop(39%,rgba(255,255,255,0.81)), color-stop(71%,rgba(255,255,255,0.65))); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(left, rgba(221,221,221,1) 0%,rgba(255,255,255,0.81) 39%,rgba(255,255,255,0.65) 71%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(left, rgba(221,221,221,1) 0%,rgba(255,255,255,0.81) 39%,rgba(255,255,255,0.65) 71%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(left, rgba(221,221,221,1) 0%,rgba(255,255,255,0.81) 39%,rgba(255,255,255,0.65) 71%); /* IE10+ */
-        background: linear-gradient(to right, rgba(221,221,221,1) 0%,rgba(255,255,255,0.81) 39%,rgba(255,255,255,0.65) 71%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dddddd', endColorstr='#a6ffffff',GradientType=1 ); /* IE6-9 */
-      }
-      #info {color: #666; font-size: 24px; position: absolute; top: 100; left: 45;}
-      #info strong {color: #333;}
-      #banner img {float: right;}
-      a.btn {text-decoration: none; padding: 15px; color: white; background-color: royalblue; position: absolute; top: 330px; right: 40px;}
-      a.btn:hover {color: lightblue;}
-    </style>
-  </head>
-  <body>
-    <div id='title'>Un dolar x Luis</div>
-    <div id='info'>
-      A veces un dolar en la vida de alguien <br/>
-      <strong>hace una gran diferencia</strong>
-    </div>
-    <div id='banner'><img src='images/banner-alpha.png'/></div>
-    <a class='btn' href='#'>Ayudanos Donando</a>
-  </body>
-</html>
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
