@@ -13,8 +13,6 @@ al **(55) 2886-5720** (Juan David Hernandez)
 
 ### En Mexico
 
-(moneda nacional)
-
 Si requieres comprobante fiscal:
 
     Banco: HSBC
