@@ -10,6 +10,7 @@ y un **anillo de perla**.
 
 Donativo: **$500 pesos**
 
-Gracias por tu colaboracion!
+Si te interesa copeerar de esta manera, [contactanos](/contacto.html) por email
+o por telefono para adquirir un boleto.
 
-Para mayor informacion, [contactanos](/contacto.html).
+**Te agradecemos infinitamente!**
