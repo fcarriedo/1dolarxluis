@@ -22,7 +22,7 @@ Si requieres comprobante fiscal:
     Cta: 04031909971
     CLABE: 021180040319099713
 
-Si **no** se requiere de comprobante fiscal:
+Si *no* requieres comprobante fiscal:
 
     Banco: Banorte
     Nombre: Teresa Gutierrez Hernandez
