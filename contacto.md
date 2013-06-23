@@ -36,8 +36,8 @@ Si *no* requieres comprobante fiscal:
 
 Es necesario que al realizar cada depósito, al lado de la ficha se anote el
 concepto **"Para implante coclear de JLHE"**. Debe escanearse y enviar al correo
-juandavidache@gmail.com y, también, un mensaje al celular de Luis  044 55 26 57
-12 34, o Juan David 044 55 28 86 57 20 para llevar el debido control.
+juandavidache@gmail.com y también, un mensaje al celular de Luis  044 55 26 57
+12 34 o Juan David 044 55 28 86 57 20 para llevar el debido control.
 
 **Agradecemos infinitamente tu apoyo!**
 
