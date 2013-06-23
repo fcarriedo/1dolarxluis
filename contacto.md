@@ -3,11 +3,9 @@ layout: default
 title: Contacto
 ---
 
-## Email
-
-Escríbenos a <a
-href='mailto:juandavidache@gmail.com'>juandavidache@gmail.com</a> o llámanos
-al **(55) 2886-5720** (Juan David Hernández)
+* Juan David Hernández
+* email: <a href='mailto:juandavidache@gmail.com'>juandavidache@gmail.com</a>
+* cel: **(55) 2886-5720**
 
 ## Cuentas para Donaciones
 
