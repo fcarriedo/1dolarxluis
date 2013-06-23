@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Donadores
+title: Donaciones
 ---
+
+Si tu tienes la posibilidad, ayúdanos depositando en alguna de las cuentas [aquí
+citadas](/contacto.html) o [contáctanos](/contacto.html) para hacer una
+donación.
 
 Gracias a todas las personas que han abierto su corazón a la causa. En
 verdad les agradecemos.
