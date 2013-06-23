@@ -4,6 +4,8 @@ title: Omniblues Bio
 ---
 
 OMNIBLUES.
+
+![Omniblues](/assets/images/concierto/omniblues.jpg)
  
 GENERO - BLUES & JAZZ LATINO.
 
