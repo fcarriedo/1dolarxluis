@@ -3,12 +3,12 @@ layout: default
 title: Donadores
 ---
 
-Gracias a todas las personas que han abierto su corazon a esta causa. En
+Gracias a todas las personas que han abierto su corazón a la causa. En
 verdad les agradecemos.
 
-A continuacion algunas imagenes de las personas que nos han apoyado hasta el
-momento. Hacemos la aclaracion que no son todas, ya que no nos ha sido posible
-fotografiarlos a todos. Una disculpa por cualquier omision.
+A continuación algunas imágenes de quienes nos han apoyado hasta el momento.
+Hacemos la aclaración que no son todas, ya que no nos ha sido posible
+fotografiarlos en su totalidad. Una disculpa por cualquier omisión.
 
 **GRACIAS!**
 
