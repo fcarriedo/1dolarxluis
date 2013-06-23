@@ -78,10 +78,10 @@ Los videos, artículos y entrevistas  de Omniblues en Internet  tienen más de 1
 
 Discografía:
 
-  * DVD Y CD Aqua vitae lux enero 2011.
-  * DVD y CD  Clausura Festival Internacional Tamaulipas 2009.
-  * CD Blues de la Sierra, enero 2009.
-  * CD The Very Best of Omniblues, agosto de 2008.
+* DVD Y CD Aqua vitae lux enero 2011.
+* DVD y CD  Clausura Festival Internacional Tamaulipas 2009.
+* CD Blues de la Sierra, enero 2009.
+* CD The Very Best of Omniblues, agosto de 2008.
 
 OmniBlues ha compartido el cártel y el escenario con cientos de artistas, provenientes de los cinco continentes, en los festivales internacionales de más prestigio en México, entre estos artistas están; 
 
