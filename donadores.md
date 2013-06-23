@@ -57,6 +57,8 @@ fotografiarlos en su totalidad. Una disculpa por cualquier omisión.
 ![gracias x donar!](/assets/images/donadores/48.jpg)
 ![gracias x donar!](/assets/images/donadores/49.jpg)
 ![gracias x donar!](/assets/images/donadores/50.jpg)
+![gracias x donar!](/assets/images/donadores/51.jpg)
+![gracias x donar!](/assets/images/donadores/52.jpg)
 ![gracias x donar!](/assets/images/donadores/53.jpg)
 ![gracias x donar!](/assets/images/donadores/55.jpg)
 ![gracias x donar!](/assets/images/donadores/56.jpg)
