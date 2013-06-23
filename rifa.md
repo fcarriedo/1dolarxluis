@@ -8,7 +8,7 @@ title: Rifa
 Donativo: **$500 pesos**
 
 Los ganadores serán los mismos números que coincidan con los 3 últimos digitos
-del 1o, 2o y 3er lugar del sorteo de la *Loteria Nacional* a efectuarse el **30
+del 1o, 2o y 3er lugar del sorteo de la *Lotería Nacional* a efectuarse el **30
 de Julio del 2013**. Cada boleto participa con 4 números por lo que tienes **4
 oportunidades de ganar x boleto!** La fecha de entrega de premios será el 4 de
 Agosto del mismo año.
