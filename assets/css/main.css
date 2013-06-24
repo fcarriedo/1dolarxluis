@@ -104,8 +104,7 @@ header {
 header .banner {
   width: 270px;
   height: 50px;
-  border: thin solid #d2d2d2;
-  background-color: #ccc;
+  background-color: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
   background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
@@ -118,29 +117,29 @@ header .banner {
   box-shadow: inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
 }
 
-header .banner div {
-  float: left;
-}
-
-header nav {
+nav {
   margin-top: 25px;
 }
 
-header nav ul {
+nav ul {
   list-style: none;
   padding-left: 30px;
 }
 
-header nav li {
+nav li {
   height:40px;
 }
 
-header nav ul a {
+nav ul a {
   color:#999;
   padding-top:6px;
 }
-header nav ul a:hover {
+nav ul a:hover {
   color: #39c;
+}
+
+nav label {
+  display: none;
 }
 
 strong {
@@ -179,14 +178,10 @@ footer {
     margin:0;
   }
 
-  header, article, section, footer {
+  header, header .banner, article, section, footer {
     float:none;
     position:static;
     width:auto;
-  }
-
-  header {
-    padding-right:320px;
   }
 
   article, section {
@@ -200,10 +195,29 @@ footer {
     display:inline;
   }
 
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
+  nav label {
+    padding: 5px;
+    text-align: center;
+    display: block;
+    border: 1px solid #e5e5e5;
+  }
+  nav label:active {
+    background-color: #eee;
+  }
+
+  nav ul {
+    padding-top: 15px;
+    margin: 0px;
+    height: 0px;
+    overflow: hidden;
+    transition: height 0.3s ease-in-out;
+    -webkit-transition: height 0.3s ease-in-out;
+  }
+
+  nav ul.opened {
+    height: 235px;
+    transition: height 0.3s ease-in-out;
+    -webkit-transition: height 0.3s ease-in-out;
   }
 }
 
@@ -216,10 +230,6 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
-    position:static;
-  }
-
   pre, code {
     word-wrap:normal;
   }
@@ -228,10 +238,6 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
-  }
-
-  header ul {
-    display:none;
   }
 }
 
