@@ -231,6 +231,10 @@ footer {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff57a957', GradientType=0);
 }
 
+p.em {
+  font-size: 16pt;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {

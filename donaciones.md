@@ -115,3 +115,6 @@ fotografiarlos en su totalidad. Una disculpa por cualquier omisión.
 ![gracias x donar!](/assets/images/donadores/104.jpg)
 ![gracias x donar!](/assets/images/donadores/105.jpg)
 ![gracias x donar!](/assets/images/donadores/106.jpg)
+![gracias x donar!](/assets/images/donadores/107.jpg)
+![gracias x donar!](/assets/images/donadores/108.jpg)
+![gracias x donar!](/assets/images/donadores/109.jpg)
